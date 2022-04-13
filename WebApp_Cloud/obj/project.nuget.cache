@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MjlAvGQ1c/xbGgxFCqfX8oKMOEJmeg6zWdBKRUsPJoXw3HXxU2wtODgZyM9KwsT0Yxc10jVFef+n6WMDlmSn9Q==",
+  "success": true,
+  "projectFilePath": "D:\\D_PRIVATE\\SELF_STUDY\\AZURE\\WebApp_Cloud\\WebApp_Cloud\\WebApp_Cloud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chinhdnk\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
