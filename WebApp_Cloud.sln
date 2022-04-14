@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp_Cloud", "WebApp_Cloud\WebApp_Cloud.csproj", "{9BFA674E-93A5-4147-8A7D-61E1EE04A681}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapp-tests", "webapp-tests\webapp-tests.csproj", "{73C8176B-3185-4E3C-A4B1-0B8AD675CC57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp_Cloud", "WebApp_Cloud\WebApp_Cloud.csproj", "{9BFA674E-93A5-4147-8A7D-61E1EE04A681}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{9BFA674E-93A5-4147-8A7D-61E1EE04A681}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BFA674E-93A5-4147-8A7D-61E1EE04A681}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BFA674E-93A5-4147-8A7D-61E1EE04A681}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73C8176B-3185-4E3C-A4B1-0B8AD675CC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73C8176B-3185-4E3C-A4B1-0B8AD675CC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73C8176B-3185-4E3C-A4B1-0B8AD675CC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73C8176B-3185-4E3C-A4B1-0B8AD675CC57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

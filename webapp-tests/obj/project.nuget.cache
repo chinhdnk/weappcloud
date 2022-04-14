@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2WlHIHguypj8wRJT4lSmnojJ1vYBNQpI0vFBlz6vUlTM1SLyNuBgcDv0rQBBSls70toowTRTtdTD1M9UwdOGqQ==",
+  "dgSpecHash": "Y+UpNUjBE+t4VKSk+/pbAYWe3dEK97cO2sTjGs44SEEysKlUzAFEVVPQjVIYP4LFIOc1+LyR3qgtD6TNQDOdGQ==",
   "success": true,
-  "projectFilePath": "D:\\D_PRIVATE\\SELF_STUDY\\AZURE\\WebApp_Cloud\\webapp-tests\\webapp-tests.csproj",
+  "projectFilePath": "D:\\D_PRIVATE\\SELF_STUDY\\AZURE\\WebApp_CloudGit\\webapp-tests\\webapp-tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chinhdnk\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\chinhdnk\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
@@ -12,7 +12,6 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\chinhdnk\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.11.0\\microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
     "C:\\Users\\chinhdnk\\.nuget\\packages\\microsoft.testplatform.testhost\\16.11.0\\microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
-    "C:\\Users\\chinhdnk\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\chinhdnk\\.nuget\\packages\\mstest.testadapter\\2.2.7\\mstest.testadapter.2.2.7.nupkg.sha512",
     "C:\\Users\\chinhdnk\\.nuget\\packages\\mstest.testframework\\2.2.7\\mstest.testframework.2.2.7.nupkg.sha512",
